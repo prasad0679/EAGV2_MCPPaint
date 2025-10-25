@@ -1,0 +1,13 @@
+[project]
+name = "eagv2-assignment-4"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "google-genai>=1.45.0",
+    "mcp[cli]>=1.18.0",
+    "pillow>=12.0.0",
+    "pyautogui>=0.9.54",
+    "pywinauto>=0.6.9",
+]
